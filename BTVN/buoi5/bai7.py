@@ -1,4 +1,4 @@
-str_1 = input("Nhập xâu: ")  # Không cần chuyển đổi input thành str, vì input luôn trả về str
+str_1 = input("Nhập xâu: ")  
 print(str_1)
 list_1 = list(str_1)
 i = 0
